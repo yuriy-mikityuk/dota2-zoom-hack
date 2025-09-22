@@ -22,6 +22,6 @@
 
 ## 📸 Preview
 
-<video src="./demo.mp4" controls autoplay loop muted width="600"></video>
+https://github.com/user-attachments/assets/15c4fe95-2ee0-4fb6-8585-d9ff64c7ac41
 
 ---
