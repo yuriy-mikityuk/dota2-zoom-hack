@@ -1,5 +1,7 @@
 # Dota 2 Zoom Hack
 
+For macOS Hero Demo and local practice, see [Training Zoom](macos/README.md). It uses Dota's built-in camera command through dedicated config files; the Windows memory patcher below is unchanged.
+
 * **Overlay Window**: Transparent, click-through overlay rendered with DirectX 11 + ImGui.
 * **Zoom Slider**: Interactive slider that changes the in-game camera zoom distance.
 * **Pattern Scanning**: Finds camera zoom instruction inside `client.dll`.
